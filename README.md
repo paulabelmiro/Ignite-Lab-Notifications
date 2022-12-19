@@ -1,3 +1,35 @@
+
+<h1>Notifications Service</h1>
+<p>Microsserviço de notificações desenvolvido durante o evento Ignite Lab da RockeatSeat. </p>
+
+<h3>Tecnologias Utilizadas</h3>
+
+<p>
+|> Jest <br>
+|> Node.js <br>
+|> Nest.js <br>
+|> Prisma <br>
+|> SQLite <br>
+
+</p>
+<br>
+
+<h3>Documentação Postman</h3>
+
+<a href="https://documenter.getpostman.com/view/23582718/2s8YzZRKmK">
+|> Confira Aqui </a>
+<br>
+<br>
+<h3>Autor</h3>
+<br>
+
+<a href="https://www.linkedin.com/in/paula-cristiane-belmiro-26386859/">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/103264615?v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Paula Belmiro</b></sub></a> <a href="https://www.instagram.com/paulynhabelmiro/" title="Instagram"></a>
+
+<br>
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
@@ -71,3 +103,4 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
