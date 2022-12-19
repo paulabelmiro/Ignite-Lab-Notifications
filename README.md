@@ -1,6 +1,6 @@
 
 <h1>Notifications Service</h1>
-<p>Microsserviço de notificações desenvolvido durante o evento Ignite Lab da RockeatSeat. </p>
+<p>Microsserviço de notificações desenvolvido durante o evento Ignite Lab da RocketSeat. </p>
 
 <h3>Tecnologias Utilizadas</h3>
 
@@ -12,7 +12,6 @@
 |> SQLite <br>
 
 </p>
-<br>
 
 <h3>Documentação Postman</h3>
 
